@@ -1,0 +1,4 @@
+name = "DenseWordsearch"
+uuid = "42629663-8406-48d6-9114-3e0ee486a6ff"
+authors = ["Jak Kos <45759112+jakkosdev@users.noreply.github.com>"]
+version = "0.1.0"
